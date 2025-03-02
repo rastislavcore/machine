@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "machine";
+	src: url(Machine-Regular.ttf) format("truetype");
+	font-display: swap;
+}
+
+.machine {
+	font-family: "machine", monospace;
+}
